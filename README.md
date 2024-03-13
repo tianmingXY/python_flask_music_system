@@ -1,0 +1,2 @@
+# python_flask_music_system
+基于python语言的Flask框架的大数据音乐推荐系统，项目自带爬虫，数据库MySQL，带论文文档
